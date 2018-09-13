@@ -40,6 +40,11 @@ body {
     position: relative;
     text-transform: uppercase;
 }
+
+#contact{
+    text-align: center;
+}
+
 .section-title h2::after {
    background: #1a242e none repeat scroll 0 0;
     content: "";
